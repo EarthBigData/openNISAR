@@ -39,7 +39,7 @@ conda install -c conda-forge earthaccess
 
 ## DISPLAY NISAR Data directly from s3 urls in QGIS
 
-Here is a quick tip on now NISAR data can be directly displayed in QGIS
+Here is a quick tip on how NISAR data can be directly displayed in QGIS
 
 You need:
 1. a running AWS ec2 instance in `us-west-2`
